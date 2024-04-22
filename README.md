@@ -18,6 +18,8 @@
 - <b>Weak Passwords</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Email Analysis</b>
+
+- <b>Reporting</b>
  
 <h2>👨‍💻 Security Hardening Projects:</h2>
 
