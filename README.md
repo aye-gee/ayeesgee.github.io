@@ -17,6 +17,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Weak Passwords</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Email Analysis</b>
  
 <h2>👨‍💻 Security Hardening Projects:</h2>
 
