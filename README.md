@@ -1,6 +1,6 @@
 <h1>Hi, I'm Angela! <br/><a href="https://github.com/aye-gee"></a> <a href="https://www.linkedin.com/in/angelagailliard/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/@ayesgeee">Emerging Penetration Tester</a></h1>
 
-🌱 I’m currently learning ...
+🌱 I’m currently honing my skills...striving to become an authority in the cybersecurity world.
 
 <h2>👨‍💻 Network Security Projects:</h2>
 
