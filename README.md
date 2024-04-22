@@ -5,7 +5,7 @@
 <h2>👨‍💻 Network Security Projects:</h2>
 
 - <b>Firewall Configuration</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing Firewall Configuration in Windows Firewall](https://github.com/aye-gee/Firewall-Configuration.git)
 - <b>Traffic Analysis</b>
 
 - <b>Virtual Private Network (VPN) Setup</b>
