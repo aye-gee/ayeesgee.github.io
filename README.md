@@ -6,8 +6,8 @@
 
 - <b>Firewall Configuration</b>
   - [Practicing Firewall Configuration in Windows Firewall](https://github.com/aye-gee/Firewall-Configuration.git)
-- <b>Traffic Analysis</b>
-
+- <b>Network Traffic Analysis</b>
+  - [Practicing Firewall Configuration in Windows Firewall](https://github.com/aye-gee/Firewall-Configuration.git)
 - <b>Virtual Private Network (VPN) Setup</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Intrusion Detection System (IDS) Setup</b>
