@@ -1,14 +1,3 @@
-# Hi, I'm Angela 👋🏾 👩🏾‍💻
-
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - cybersecurity professional and emerging pentester alongside a cartoon illustration of Angela">
-I'm a former small business owner transitioning into the infotech world...currently honing my skills in my quest to become an authority in the cybersecurity field. creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
-
-
-## Find me around the web 🌎: 
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
-- 
 <h1>Hi, I'm Angela! <br/><a href="https://github.com/aye-gee"></a> <a href="https://www.linkedin.com/in/angelagailliard/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/@ayesgeee">Emerging Penetration Tester</a></h1>
 
 🌱 I'm a former small business owner transitioning into the infotech world...currently honing my skills in my quest to become an authority in the cybersecurity field.
